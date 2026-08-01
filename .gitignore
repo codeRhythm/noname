@@ -3,6 +3,9 @@ output
 node_modules
 package-lock.json
 
+# 音频备份（mp3 原文件，已从源码移除，仅作备份不打包）
+audio-mp3-backup/
+
 # IDE
 .idea/
 .vscode/
